@@ -66,7 +66,7 @@ function serverHandler(request, response) {
 }
 
 var config = {
-  "socketURL": "/",
+  "socketURL": "https://jjoho95.github.io/",
   "dirPath": "",
   "homePage": "/",
   "socketMessageEvent": "RTCMultiConnection-Message",

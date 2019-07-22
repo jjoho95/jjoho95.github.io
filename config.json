@@ -1,5 +1,5 @@
 {
-  "socketURL": "/",
+  "socketURL": "https://jjoho95.github.io/",
   "dirPath": "",
   "homePage": "/demos/index.html",
   "socketMessageEvent": "RTCMultiConnection-Message",
